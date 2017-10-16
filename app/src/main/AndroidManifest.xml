@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Activities.CollegeNotification" />
-        <activity android:name=".Activities.MyProfile"></activity>
+        <activity android:name=".Activities.MyProfile" />
+        <activity android:name=".Activities.MyWall"></activity>
     </application>
 
 </manifest>
